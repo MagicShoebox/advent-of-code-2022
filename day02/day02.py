@@ -1,6 +1,5 @@
 from operator import itemgetter
 
-
 with open('input.txt') as f:
     rounds = [line.rstrip() for line in f]
 

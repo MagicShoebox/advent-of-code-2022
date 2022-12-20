@@ -1,5 +1,3 @@
-from operator import itemgetter
-
 with open('input.txt') as f:
     rucksacks = [line.rstrip() for line in f]
 
